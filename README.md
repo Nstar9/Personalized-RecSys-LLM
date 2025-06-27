@@ -180,27 +180,6 @@ GET /explain?user_id=10&movie_id=1122
 * **All data is real and up-to-date** (see screenshots).
 
 ---
-
-## 💡 Technical Highlights
-
-* **FastAPI for async API serving (production-grade)**
-* **Streamlit for rapid, beautiful analytics UI**
-* **LLM/NLP onboarding for user intent extraction**
-* **Clean data pipelines using Pandas**
-* **Public cloud deployment: Render (API) + Streamlit Cloud (dashboard)**
-* **End-to-end logs and error handling**
-
----
-
-## 🏆 Impact & Learnings
-
-* Built for “real” product management and data science interviews (and beyond)
-* Demonstrates technical and product depth
-* Focuses on measurable outcomes, transparency, and user value
-* Shows you can take a full product from **idea to public launch**
-
----
-
 ## 🙋 About Me
 
 I’m Niraj Patil, a technical product manager with deep hands-on skills in ML, cloud, analytics, and product strategy.

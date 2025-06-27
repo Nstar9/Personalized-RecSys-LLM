@@ -122,6 +122,7 @@ pip install -r requirements.txt
 > **Drop your key screenshots here**
 >
 > * Main Dashboard (A/B test, Recommendations)
+> * ![Streamlit Dashboard](dashboard.png)
 > * API Docs (Swagger UI)
 > * Onboarding/Feedback endpoints
 > * Example API responses

@@ -1,3 +1,6 @@
-streamlit
+fastapi
+uvicorn
 pandas
-
+streamlit
+requests
+python-dotenv

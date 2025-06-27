@@ -158,7 +158,7 @@ GET /explain?user_id=10&movie_id=1122
 
 | Dashboard | Model Analytics |
 | --------- | -------------- |
-| ![Dashboard](screenshots/dashboard.png) | ![Dashboard 2](screenshots/dashboard-1.png) |
+| ![Dashboard](screenshots/dashboard.png) | ![Dashboard 2](screenshots/dashboard-2.png) |
 
 ### 2. Recommendation API (Swagger Docs)
 

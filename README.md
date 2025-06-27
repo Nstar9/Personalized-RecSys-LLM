@@ -117,19 +117,6 @@ pip install -r requirements.txt
 
 ---
 
-## 🖼️ Screenshots
-
-> **Drop your key screenshots here**
->
-> * Main Dashboard (A/B test, Recommendations)
-> * ![Streamlit Dashboard](dashboard.png)
-> * API Docs (Swagger UI)
-> * Onboarding/Feedback endpoints
-> * Example API responses
->   *Screenshots show actual working app and endpoints!*
-
----
-
 ## 📊 Example Usage
 
 ### **Get Recommendations**
@@ -163,6 +150,39 @@ POST /onboard
 ```http
 GET /explain?user_id=10&movie_id=1122
 ```
+
+---
+## 🖥️ Screenshots
+
+### 1. Dashboard (A/B Analytics, PM View)
+
+| Dashboard | Model Analytics |
+| --------- | -------------- |
+| ![Dashboard](screenshots/dashboard.png) | ![Dashboard 2](screenshots/dashboard-1.png) |
+
+### 2. Recommendation API (Swagger Docs)
+
+| Recommend API | Sample Output |
+| ------------- | ------------- |
+| ![Recommend API](screenshots/recommend.png) | ![Recommend 1](screenshots/recommend-1.png) |
+
+### 3. LLM Explanations
+
+| Explain API | Explanation Example |
+| ----------- | ------------------ |
+| ![Explain API](screenshots/explain.png) | ![Explain 1](screenshots/explain-1.png) |
+
+### 4. Onboarding (LLM-Based Preference Extraction)
+
+| Onboard Input | Onboard Output |
+| ------------- | -------------- |
+| ![Onboard Input](screenshots/onboard.png) | ![Onboard 2](screenshots/onboard-2.png) |
+
+### 5. Feedback Logging
+
+| Feedback API | Feedback Example |
+| ------------ | --------------- |
+| ![Feedback API](screenshots/feedback.png) | ![Feedback 2](screenshots/feedback-2.png) |
 
 ---
 
